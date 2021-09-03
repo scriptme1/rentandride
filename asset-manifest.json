@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rentandride/static/css/main.ab92d079.chunk.css",
+    "main.js": "/rentandride/static/js/main.726e995e.chunk.js",
+    "main.js.map": "/rentandride/static/js/main.726e995e.chunk.js.map",
+    "runtime-main.js": "/rentandride/static/js/runtime-main.fa85fc1d.js",
+    "runtime-main.js.map": "/rentandride/static/js/runtime-main.fa85fc1d.js.map",
+    "static/css/2.8a75c635.chunk.css": "/rentandride/static/css/2.8a75c635.chunk.css",
+    "static/js/2.2b439d5a.chunk.js": "/rentandride/static/js/2.2b439d5a.chunk.js",
+    "static/js/2.2b439d5a.chunk.js.map": "/rentandride/static/js/2.2b439d5a.chunk.js.map",
+    "index.html": "/rentandride/index.html",
+    "static/css/2.8a75c635.chunk.css.map": "/rentandride/static/css/2.8a75c635.chunk.css.map",
+    "static/css/main.ab92d079.chunk.css.map": "/rentandride/static/css/main.ab92d079.chunk.css.map",
+    "static/js/2.2b439d5a.chunk.js.LICENSE.txt": "/rentandride/static/js/2.2b439d5a.chunk.js.LICENSE.txt",
+    "static/media/blob.8dfe14f1.svg": "/rentandride/static/media/blob.8dfe14f1.svg",
+    "static/media/ferrari.169ce39f.png": "/rentandride/static/media/ferrari.169ce39f.png",
+    "static/media/jeep.18461d13.png": "/rentandride/static/media/jeep.18461d13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa85fc1d.js",
+    "static/css/2.8a75c635.chunk.css",
+    "static/js/2.2b439d5a.chunk.js",
+    "static/css/main.ab92d079.chunk.css",
+    "static/js/main.726e995e.chunk.js"
+  ]
+}
